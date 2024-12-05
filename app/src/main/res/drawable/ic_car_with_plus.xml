@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base Layer: 차량 아이콘 -->
+    <item
+        android:drawable="@drawable/outline_directions_car_24"
+        android:width="32dp"
+        android:height="32dp"
+        android:top="8dp"/>
+
+    <!-- Top Layer: 플러스 아이콘 -->
+    <item
+        android:drawable="@drawable/baseline_add_24"
+        android:width="20dp"
+        android:height="20dp"
+        android:left="24dp" />
+</layer-list>
